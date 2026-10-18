@@ -12,7 +12,7 @@
 #  Totul sta in %LOCALAPPDATA%\instalator - nu atinge restul sistemului.
 # ============================================================
 
-$Repo   = 'UTILIZATOR/REPO'     # <-- SCHIMBA ASTA
+$Repo   = 'cobai-lab/instalator'     # <-- SCHIMBA ASTA
 $Branch = 'main'
 
 $Base = "https://raw.githubusercontent.com/$Repo/$Branch"
